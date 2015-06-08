@@ -3,12 +3,13 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_simple_sales'
   s.version     = '3.1.0.beta'
-  s.summary     = 'TODO: Add gem summary here'
-  s.description = 'TODO: Add (optional) gem description here'
-  s.required_ruby_version = '>= 2.0.0'
+  s.author = 'Luke Patrick'
+  s.summary     = 'Enables quick sales simply and easily via Gemfile'
+  s.description = 'Enables quick sales simply and easily via Gemfile'
+  s.required_ruby_version = '>= 2.2.0'
 
   # s.author    = 'You'
-  # s.email     = 'you@example.com'
+  s.email     = 'ask@snodandjeff.com'
   # s.homepage  = 'http://www.spreecommerce.com'
 
   #s.files       = `git ls-files`.split("\n")
