@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_simple_sales'
-  s.version     = '3.1.0.beta'
+  s.version     = '3.0.2.beta'
   s.author = 'Luke Patrick'
   s.summary     = 'Enables quick sales simply and easily via Gemfile'
   s.description = 'Enables quick sales simply and easily via Gemfile'
